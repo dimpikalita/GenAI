@@ -1,0 +1,4 @@
+Task 4: Combined Operations
+1. Using the products list and price_dict, create a list of tuples named catalog where each tuple is (product_name, price, category).
+2. From catalog, creat a new dictionary category_to_products that maps each category to a list of product names in that category.
+3. Print all products that belong to the category that has the maximum number of products.

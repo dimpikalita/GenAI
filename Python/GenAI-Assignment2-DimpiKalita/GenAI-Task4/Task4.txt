@@ -1,0 +1,7 @@
+Task 4: Loop control with conditions (break & continue)
+1. Given a list of daily sales:
+daily = [200, 150, 0, 400, 50, -1, 300], iterate through it with a for loop and
+- If a day's value is -1, treat it as corrupted data and break the loop.
+- If a day's value is 0, treat it as a day with no sales and continue (skip adding to revenue).
+- For a valid positive sales, add to total_sales and print the running total.
+2. Print the final total after the loop completes or stops due to corrupted data.
