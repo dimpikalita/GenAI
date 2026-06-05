@@ -1,3 +1,3 @@
 # Python
 
-This folder contains Python-related code and resources for the GenAI project.
+This folder contains assignments related to Python.
