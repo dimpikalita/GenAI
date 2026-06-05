@@ -4,4 +4,4 @@ Menu options:
 1 - Add order amount to a running list (use input())
 2 - Show all orders and totals after applying discounts
 q - quit
-2. Use continue to re-show the menu after invalid input and break to qxit on q.
+2. Use continue to re-show the menu after invalid input and break to quit on q.
